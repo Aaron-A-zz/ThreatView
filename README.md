@@ -6,5 +6,3 @@ Subscribe via the following links:
 IP Block list: https://raw.githubusercontent.com/Aaron-A/ThreatView/main/ipblocklist.lsrules
 
 Domain Blocklist: https://raw.githubusercontent.com/Aaron-A/ThreatView/main/domainblocklist.lsrules
-
-Coming soon: URL Blocklist
